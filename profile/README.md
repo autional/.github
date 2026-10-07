@@ -7,11 +7,11 @@
 | Portal | URL | About |
 | --- | --- | --- |
 | Sign In | [auth.autional.com](https://auth.autional.com) | Login, registration, multi-factor authentication, and single sign-on |
-| User Center | [user.autional.com](https://user.autional.com) | Profile, security settings, devices, sessions, and authorization |
-| Admin Console | [admin.autional.com](https://admin.autional.com) | Centralized management of tenants, users, applications, and policies |
-| Security Center | [security.autional.com](https://security.autional.com) | Risk events, login audit, and security posture overview |
-| Platform Console | [platform.autional.com](https://platform.autional.com) | Platform-level tenant operations and global configuration |
-| Authenticator | [authenticator.autional.com](https://authenticator.autional.com) | TOTP- and passkey-based two-step verification |
+| User Center | [user.autional.com](https://user.autional.com) | Profile, security settings, devices, sessions, and authorization (sign-in required) |
+| Admin Console | [admin.autional.com](https://admin.autional.com) | Centralized management of tenants, users, applications, and policies (sign-in required) |
+| Security Center | [security.autional.com](https://security.autional.com) | Risk events, login audit, and security posture overview (sign-in required) |
+| Platform Console | [platform.autional.com](https://platform.autional.com) | Platform-level tenant operations and global configuration (sign-in required) |
+| Authenticator | [authenticator.autional.com](https://authenticator.autional.com) | TOTP- and passkey-based two-step verification (sign-in required) |
 | Brand Portal | [brand.autional.com](https://brand.autional.com) | Tenant brand selection entry point |
 | Trust Center | [trust.autional.com](https://trust.autional.com) | Security practices, data protection, and compliance progress |
 | System Status | [status.autional.com](https://status.autional.com) | Real-time availability and incident history for all services |
