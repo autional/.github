@@ -1,6 +1,6 @@
 # Autional
 
-**Open-source identity infrastructure** — authentication, accounts, multi-tenancy, and access control. Build with AI, ship with confidence.
+**Open-core identity infrastructure** — authentication, accounts, multi-tenancy, and access control. Open-source portals and SDKs; commercial core. Build with AI, ship with confidence.
 
 ## Portals
 
@@ -43,7 +43,7 @@ Push to `main` deploys each site via Vercel.
 
 ## License
 
-[AGPL-3.0](https://github.com/autional/.github/blob/main/LICENSE) · SDK packages are MIT
+Open-source components (portals, design system, docs): [AGPL-3.0](https://github.com/autional/.github/blob/main/LICENSE) · SDK packages: MIT · Core identity services: commercial license
 
 ---
 
