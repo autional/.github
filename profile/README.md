@@ -37,7 +37,7 @@
 | Sites | [web](https://github.com/autional/web) · [docs](https://github.com/autional/docs) · [developer](https://github.com/autional/developer) · [reference](https://github.com/autional/reference) · [wiki](https://github.com/autional/wiki) | Astro 5 + Tailwind CSS |
 | SDK | [sdk](https://github.com/autional/sdk) | TypeScript · pnpm workspace · Changesets |
 | Infrastructure | [api](https://github.com/autional/api) · [demo](https://github.com/autional/demo) · [cdn](https://github.com/autional/cdn) | Vercel reverse proxy and static asset CDN |
-| Brand | [ui](https://github.com/autional-cn/ui) | Logos, favicons, design tokens, and UI guidelines — canonical design system (supersedes the archived `autional/ui`) |
+| Brand | [ui](https://github.com/autional/ui) | Logos, favicons, design tokens, and UI guidelines — canonical design system |
 
 Push to `main` deploys each site via Vercel.
 
